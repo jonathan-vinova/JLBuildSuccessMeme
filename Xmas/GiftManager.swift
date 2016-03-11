@@ -10,14 +10,16 @@ import Foundation
 
 @objc class GiftManager: NSObject {
     static let imageNames = [
-        "image1.png",
-        "image2.png",
-        "image3.png",
-        "image4.png",
-        "image5.png",
-        "image6.png",
-        "image7.png",
-        "image8.png", 
+        "image1.jpeg",
+        "image2.jpg",
+        "image3.jpeg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpeg",
+        "image7.jpeg",
+        "image8.jpg",
+        "image9.png",
+        "image10.png"
     ]
 
     static let messages = [
@@ -38,11 +40,9 @@ import Foundation
 
     class func makeGift() -> Gift {
         let imageNameIndex = Int(arc4random_uniform(UInt32(imageNames.count)))
-        let messageIndex = Int(arc4random_uniform(UInt32(messages.count)))
 
         let imageName = imageNames[imageNameIndex]
-        let message = messages[messageIndex]
 
-        return Gift(imageName: imageName, message: message)
+        return Gift(imageName: imageName, message: "Build Success!")
     }
 }
