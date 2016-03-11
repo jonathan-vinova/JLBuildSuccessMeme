@@ -1,5 +1,5 @@
 //
-//  Xmas.swift
+//  JLBuildSuccess.swift
 //
 //  Created by Khoa Pham on 12/18/15.
 //  Copyright © 2015 Fantageek. All rights reserved.
@@ -7,9 +7,9 @@
 
 import AppKit
 
-var sharedPlugin: Xmas?
+var sharedPlugin: JLBuildSuccess?
 
-class Xmas: NSObject {
+class JLBuildSuccess: NSObject {
 
     var bundle: NSBundle
     lazy var center = NSNotificationCenter.defaultCenter()

@@ -1,6 +1,6 @@
 //
 //  ToggleManager.swift
-//  Xmas
+//  JLBuildSuccess
 //
 //  Created by Khoa Pham on 12/19/15.
 //  Copyright © 2015 Fantageek. All rights reserved.
@@ -9,7 +9,7 @@
 import AppKit
 
 @objc class ToggleManager: NSObject {
-    static let key = "com.fantageek.Xmas"
+    static let key = "com.fantageek.JLBuildSuccess"
 
     class func setup() {
         let defaults = [key: true]

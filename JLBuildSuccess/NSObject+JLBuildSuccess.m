@@ -1,23 +1,23 @@
 //
-//  NSObject+Xmas.m
-//  Xmas
+//  NSObject+JLBuildSuccess.m
+//  JLBuildSuccess
 //
 //  Created by Khoa Pham on 12/19/15.
 //  Copyright © 2015 Fantageek. All rights reserved.
 //
 
-#import "NSObject+Xmas.h"
+#import "NSObject+JLBuildSuccess.h"
 #import <AppKit/AppKit.h>
-#import "Xmas-Swift.h"
+#import "JLBuildSuccess-Swift.h"
 
-@implementation NSObject (Xmas)
+@implementation NSObject (JLBuildSuccess)
 
 - (id)xmas_initWithIcon:(id)icon
                 message:(NSString *)message
            parentWindow:(id)parentWindow
                duration:(double)duration {
     if (icon && [ToggleManager isEnabled] && [message containsString:@"Succeeded"]) {
-        NSBundle *bundle = [NSBundle bundleWithIdentifier:@"com.fantageek.Xmas"];
+        NSBundle *bundle = [NSBundle bundleWithIdentifier:@"com.fantageek.JLBuildSuccess"];
 
         Gift *gift = [GiftManager makeGift];
 

@@ -1,6 +1,6 @@
 //
 //  GiftManager.swift
-//  Xmas
+//  JLBuildSuccess
 //
 //  Created by Khoa Pham on 12/19/15.
 //  Copyright © 2015 Fantageek. All rights reserved.
@@ -30,7 +30,7 @@ import Foundation
         "Let it go",
         "⛄️❄️",
         "Joy and cheer",
-        "Xmas",
+        "JLBuildSuccess",
         "🎉🎉🎉",
         "Santa is coming",
         "A Christmas wish",

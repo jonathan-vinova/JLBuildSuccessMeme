@@ -17,12 +17,12 @@
 		20252B521C92D1110099AB52 /* image8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20252B481C92D1110099AB52 /* image8.jpg */; };
 		20252B531C92D1110099AB52 /* image9.png in Resources */ = {isa = PBXBuildFile; fileRef = 20252B491C92D1110099AB52 /* image9.png */; };
 		20252B541C92D1110099AB52 /* image10.png in Resources */ = {isa = PBXBuildFile; fileRef = 20252B4A1C92D1110099AB52 /* image10.png */; };
-		D292F64A1C24622B0089EA00 /* Xmas.xcscheme in Resources */ = {isa = PBXBuildFile; fileRef = D292F6491C24622B0089EA00 /* Xmas.xcscheme */; };
-		D292F64C1C24622B0089EA00 /* Xmas.swift in Sources */ = {isa = PBXBuildFile; fileRef = D292F64B1C24622B0089EA00 /* Xmas.swift */; };
+		D292F64A1C24622B0089EA00 /* JLBuildSuccess.xcscheme in Resources */ = {isa = PBXBuildFile; fileRef = D292F6491C24622B0089EA00 /* JLBuildSuccess.xcscheme */; };
+		D292F64C1C24622B0089EA00 /* JLBuildSuccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = D292F64B1C24622B0089EA00 /* JLBuildSuccess.swift */; };
 		D292F64E1C24622B0089EA00 /* NSObject_Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D292F64D1C24622B0089EA00 /* NSObject_Extension.swift */; };
 		D2A33AEA1C252642005C4DC1 /* JRSwizzle.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A33AE81C252642005C4DC1 /* JRSwizzle.m */; };
 		D2A33AEB1C252642005C4DC1 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D2A33AE91C252642005C4DC1 /* LICENSE */; };
-		D2A33AEE1C252663005C4DC1 /* NSObject+Xmas.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A33AED1C252663005C4DC1 /* NSObject+Xmas.m */; };
+		D2A33AEE1C252663005C4DC1 /* NSObject+JLBuildSuccess.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A33AED1C252663005C4DC1 /* NSObject+JLBuildSuccess.m */; };
 		D2A33AFB1C254F6D005C4DC1 /* Gift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A33AFA1C254F6D005C4DC1 /* Gift.swift */; };
 		D2A33AFD1C254F75005C4DC1 /* GiftManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A33AFC1C254F75005C4DC1 /* GiftManager.swift */; };
 		D2A496331C250D66001CCC6A /* MenuHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A496321C250D66001CCC6A /* MenuHandler.swift */; };
@@ -40,28 +40,28 @@
 		20252B481C92D1110099AB52 /* image8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.jpg; sourceTree = "<group>"; };
 		20252B491C92D1110099AB52 /* image9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image9.png; sourceTree = "<group>"; };
 		20252B4A1C92D1110099AB52 /* image10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image10.png; sourceTree = "<group>"; };
-		D292F6451C24622B0089EA00 /* Xmas.xcplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Xmas.xcplugin; sourceTree = BUILT_PRODUCTS_DIR; };
-		D292F6491C24622B0089EA00 /* Xmas.xcscheme */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Xmas.xcscheme; path = Xmas.xcodeproj/xcshareddata/xcschemes/Xmas.xcscheme; sourceTree = SOURCE_ROOT; };
-		D292F64B1C24622B0089EA00 /* Xmas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xmas.swift; sourceTree = "<group>"; };
+		D292F6451C24622B0089EA00 /* JLBuildSuccess.xcplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JLBuildSuccess.xcplugin; sourceTree = BUILT_PRODUCTS_DIR; };
+		D292F6491C24622B0089EA00 /* JLBuildSuccess.xcscheme */ = {isa = PBXFileReference; lastKnownFileType = file; name = JLBuildSuccess.xcscheme; path = JLBuildSuccess.xcodeproj/xcshareddata/xcschemes/JLBuildSuccess.xcscheme; sourceTree = SOURCE_ROOT; };
+		D292F64B1C24622B0089EA00 /* JLBuildSuccess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JLBuildSuccess.swift; sourceTree = "<group>"; };
 		D292F64D1C24622B0089EA00 /* NSObject_Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObject_Extension.swift; sourceTree = "<group>"; };
 		D292F64F1C24622B0089EA00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2A33AE71C252642005C4DC1 /* JRSwizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRSwizzle.h; sourceTree = "<group>"; };
 		D2A33AE81C252642005C4DC1 /* JRSwizzle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRSwizzle.m; sourceTree = "<group>"; };
 		D2A33AE91C252642005C4DC1 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		D2A33AEC1C252663005C4DC1 /* NSObject+Xmas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Xmas.h"; sourceTree = "<group>"; };
-		D2A33AED1C252663005C4DC1 /* NSObject+Xmas.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Xmas.m"; sourceTree = "<group>"; };
+		D2A33AEC1C252663005C4DC1 /* NSObject+JLBuildSuccess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+JLBuildSuccess.h"; sourceTree = "<group>"; };
+		D2A33AED1C252663005C4DC1 /* NSObject+JLBuildSuccess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+JLBuildSuccess.m"; sourceTree = "<group>"; };
 		D2A33AFA1C254F6D005C4DC1 /* Gift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gift.swift; sourceTree = "<group>"; };
 		D2A33AFC1C254F75005C4DC1 /* GiftManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiftManager.swift; sourceTree = "<group>"; };
 		D2A496321C250D66001CCC6A /* MenuHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuHandler.swift; sourceTree = "<group>"; };
 		D2A496341C250EC1001CCC6A /* ToggleManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToggleManager.swift; sourceTree = "<group>"; };
-		D2A496391C2518A0001CCC6A /* Xmas-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Xmas-Bridging-Header.h"; sourceTree = "<group>"; };
+		D2A496391C2518A0001CCC6A /* JLBuildSuccess-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JLBuildSuccess-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D292F63D1C24622B0089EA00 = {
 			isa = PBXGroup;
 			children = (
-				D292F6471C24622B0089EA00 /* Xmas */,
+				D292F6471C24622B0089EA00 /* JLBuildSuccess */,
 				D292F6461C24622B0089EA00 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,35 +69,36 @@
 		D292F6461C24622B0089EA00 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D292F6451C24622B0089EA00 /* Xmas.xcplugin */,
+				D292F6451C24622B0089EA00 /* JLBuildSuccess.xcplugin */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D292F6471C24622B0089EA00 /* Xmas */ = {
+		D292F6471C24622B0089EA00 /* JLBuildSuccess */ = {
 			isa = PBXGroup;
 			children = (
 				D2A33AEF1C252849005C4DC1 /* Images */,
 				D2A33AE51C252642005C4DC1 /* Vendors */,
-				D292F64B1C24622B0089EA00 /* Xmas.swift */,
+				D292F64B1C24622B0089EA00 /* JLBuildSuccess.swift */,
 				D292F64D1C24622B0089EA00 /* NSObject_Extension.swift */,
 				D292F64F1C24622B0089EA00 /* Info.plist */,
 				D292F6481C24622B0089EA00 /* Supporting Files */,
 				D2A496321C250D66001CCC6A /* MenuHandler.swift */,
 				D2A496341C250EC1001CCC6A /* ToggleManager.swift */,
-				D2A496391C2518A0001CCC6A /* Xmas-Bridging-Header.h */,
-				D2A33AEC1C252663005C4DC1 /* NSObject+Xmas.h */,
-				D2A33AED1C252663005C4DC1 /* NSObject+Xmas.m */,
+				D2A496391C2518A0001CCC6A /* JLBuildSuccess-Bridging-Header.h */,
+				D2A33AEC1C252663005C4DC1 /* NSObject+JLBuildSuccess.h */,
+				D2A33AED1C252663005C4DC1 /* NSObject+JLBuildSuccess.m */,
 				D2A33AFA1C254F6D005C4DC1 /* Gift.swift */,
 				D2A33AFC1C254F75005C4DC1 /* GiftManager.swift */,
 			);
-			path = Xmas;
+			name = JLBuildSuccess;
+			path = JLBuildSuccess;
 			sourceTree = "<group>";
 		};
 		D292F6481C24622B0089EA00 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D292F6491C24622B0089EA00 /* Xmas.xcscheme */,
+				D292F6491C24622B0089EA00 /* JLBuildSuccess.xcscheme */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -140,9 +141,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D292F6441C24622B0089EA00 /* Xmas */ = {
+		D292F6441C24622B0089EA00 /* JLBuildSuccess */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D292F6521C24622B0089EA00 /* Build configuration list for PBXNativeTarget "Xmas" */;
+			buildConfigurationList = D292F6521C24622B0089EA00 /* Build configuration list for PBXNativeTarget "JLBuildSuccess" */;
 			buildPhases = (
 				D292F6421C24622B0089EA00 /* Sources */,
 				D292F6431C24622B0089EA00 /* Resources */,
@@ -151,9 +152,9 @@
 			);
 			dependencies = (
 			);
-			name = Xmas;
-			productName = Xmas;
-			productReference = D292F6451C24622B0089EA00 /* Xmas.xcplugin */;
+			name = JLBuildSuccess;
+			productName = JLBuildSuccess;
+			productReference = D292F6451C24622B0089EA00 /* JLBuildSuccess.xcplugin */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -171,7 +172,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D292F6411C24622B0089EA00 /* Build configuration list for PBXProject "Xmas" */;
+			buildConfigurationList = D292F6411C24622B0089EA00 /* Build configuration list for PBXProject "JLBuildSuccess" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,7 +184,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D292F6441C24622B0089EA00 /* Xmas */,
+				D292F6441C24622B0089EA00 /* JLBuildSuccess */,
 			);
 		};
 /* End PBXProject section */
@@ -197,7 +198,7 @@
 				D2A33AEB1C252642005C4DC1 /* LICENSE in Resources */,
 				20252B541C92D1110099AB52 /* image10.png in Resources */,
 				20252B511C92D1110099AB52 /* image7.jpeg in Resources */,
-				D292F64A1C24622B0089EA00 /* Xmas.xcscheme in Resources */,
+				D292F64A1C24622B0089EA00 /* JLBuildSuccess.xcscheme in Resources */,
 				20252B4E1C92D1110099AB52 /* image4.jpg in Resources */,
 				20252B4F1C92D1110099AB52 /* image5.jpg in Resources */,
 				20252B521C92D1110099AB52 /* image8.jpg in Resources */,
@@ -217,11 +218,11 @@
 			files = (
 				D2A33AFB1C254F6D005C4DC1 /* Gift.swift in Sources */,
 				D2A33AFD1C254F75005C4DC1 /* GiftManager.swift in Sources */,
-				D292F64C1C24622B0089EA00 /* Xmas.swift in Sources */,
+				D292F64C1C24622B0089EA00 /* JLBuildSuccess.swift in Sources */,
 				D2A496331C250D66001CCC6A /* MenuHandler.swift in Sources */,
 				D2A496351C250EC1001CCC6A /* ToggleManager.swift in Sources */,
 				D292F64E1C24622B0089EA00 /* NSObject_Extension.swift in Sources */,
-				D2A33AEE1C252663005C4DC1 /* NSObject+Xmas.m in Sources */,
+				D2A33AEE1C252663005C4DC1 /* NSObject+JLBuildSuccess.m in Sources */,
 				D2A33AEA1C252642005C4DC1 /* JRSwizzle.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,13 +310,13 @@
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(HOME)";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
-				INFOPLIST_FILE = Xmas/Info.plist;
+				INFOPLIST_FILE = JLBuildSuccess/Info.plist;
 				INSTALL_PATH = "/Library/Application Support/Developer/Shared/Xcode/Plug-ins";
 				LD_RUNPATH_SEARCH_PATHS = "$(DT_TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = com.fantageek.Xmas;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Xmas/Xmas-Bridging-Header.h";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fantageek.JLBuildSuccess;
+				PRODUCT_NAME = JLBuildSuccess;
+				SWIFT_OBJC_BRIDGING_HEADER = "JLBuildSuccess/JLBuildSuccess-Bridging-Header.h";
 				WRAPPER_EXTENSION = xcplugin;
 			};
 			name = Debug;
@@ -327,13 +328,13 @@
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(HOME)";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
-				INFOPLIST_FILE = Xmas/Info.plist;
+				INFOPLIST_FILE = JLBuildSuccess/Info.plist;
 				INSTALL_PATH = "/Library/Application Support/Developer/Shared/Xcode/Plug-ins";
 				LD_RUNPATH_SEARCH_PATHS = "$(DT_TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = com.fantageek.Xmas;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Xmas/Xmas-Bridging-Header.h";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fantageek.JLBuildSuccess;
+				PRODUCT_NAME = JLBuildSuccess;
+				SWIFT_OBJC_BRIDGING_HEADER = "JLBuildSuccess/JLBuildSuccess-Bridging-Header.h";
 				WRAPPER_EXTENSION = xcplugin;
 			};
 			name = Release;
@@ -341,7 +342,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D292F6411C24622B0089EA00 /* Build configuration list for PBXProject "Xmas" */ = {
+		D292F6411C24622B0089EA00 /* Build configuration list for PBXProject "JLBuildSuccess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D292F6501C24622B0089EA00 /* Debug */,
@@ -350,7 +351,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D292F6521C24622B0089EA00 /* Build configuration list for PBXNativeTarget "Xmas" */ = {
+		D292F6521C24622B0089EA00 /* Build configuration list for PBXNativeTarget "JLBuildSuccess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D292F6531C24622B0089EA00 /* Debug */,

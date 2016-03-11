@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D292F6441C24622B0089EA00"
-               BuildableName = "Xmas.xcplugin"
-               BlueprintName = "Xmas"
-               ReferencedContainer = "container:Xmas.xcodeproj">
+               BuildableName = "JLBuildSuccess.xcplugin"
+               BlueprintName = "JLBuildSuccess"
+               ReferencedContainer = "container:JLBuildSuccess.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8966AFCA173EB7BF004150C0"
-               BuildableName = "XmasTests.xctest"
-               BlueprintName = "XmasTests"
-               ReferencedContainer = "container:Xmas.xcodeproj">
+               BuildableName = "JLBuildSuccessTests.xctest"
+               BlueprintName = "JLBuildSuccessTests"
+               ReferencedContainer = "container:JLBuildSuccess.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -67,9 +67,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D292F6441C24622B0089EA00"
-            BuildableName = "Xmas.xcplugin"
-            BlueprintName = "Xmas"
-            ReferencedContainer = "container:Xmas.xcodeproj">
+            BuildableName = "JLBuildSuccess.xcplugin"
+            BlueprintName = "JLBuildSuccess"
+            ReferencedContainer = "container:JLBuildSuccess.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
